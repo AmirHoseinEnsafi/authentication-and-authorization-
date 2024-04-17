@@ -18,5 +18,3 @@ router.get("/" , (req , res) => {
 })
 
 module.exports = router 
-
-//eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoic2hhaHJva2giLCJlbWFpbCI6ImFtaXJtYWhkaW9uMUBnbWFpbC5jb20iLCJpYXQiOjE3MTMzNTM2MTB9.LiPdjfoqmwBDOjrpaVZUwIuKtYif138ziHHr0PeuprI
